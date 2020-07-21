@@ -1,0 +1,93 @@
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightgray;
+}
+
+
+main {
+    margin:0 auto; 
+    width:960px;
+    margin-top: 80px;
+    margin-bottom: 120px;
+    }
+    
+
+
+header img{
+    float: left;
+    margin-right: 60px;
+    margin-top: 15px;
+    margin-left: 195px;
+}
+
+
+nav li {
+    display: inline;
+    padding-right: 80px;
+}
+
+nav ol {
+    padding-top: 40px;
+}
+
+header {
+    margin-bottom: 65px;
+}
+
+header div {
+    background-color: rgb(59, 59, 59);
+    height: 100px;
+    width: 100%;
+}
+
+#hero {
+    margin-bottom: 30px;
+}
+
+#sub {
+    margin-right: 25px;
+}
+
+.featured {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#feature {
+    float:left;
+    margin-right: 30px;
+}
+
+#scrollable {
+    height: 350px;
+    overflow-y: scroll;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#scrollable h3{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#scrollable p {
+    font-style: italic;
+    font-size: 14px;
+}
+button{
+    margin-top: 10px;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    transition-duration: 0.35s;
+}
+
+button:hover{
+    background-color: black;
+    color: wheat;
+}
+
+footer{
+    height: 125px;
+    background-color: grey;
+    width: 100%;
+}
